@@ -4,7 +4,7 @@ namespace ImportFileExelRedis.Infrastructure
 {
     public class PropertyByName<T>
     { 
-        public PropertyByName(string propertyName, Func<T, object> func = null, bool ignore = false)
+        public PropertyByName(string propertyName, Func<T, object>? func = null, bool ignore = false)
         {
             PropertyName = propertyName;
 
