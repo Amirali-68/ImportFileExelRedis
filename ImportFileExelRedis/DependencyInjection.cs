@@ -1,8 +1,8 @@
 ﻿
 using Application.Publisher;
-using ImportFileExelRedis.Infrastructure;
+using ImportFileExcelRedis.Infrastructure;
 
-namespace ImportFileExelRedis
+namespace ImportFileExcelRedis
 {
     public static class DependencyInjection
     {

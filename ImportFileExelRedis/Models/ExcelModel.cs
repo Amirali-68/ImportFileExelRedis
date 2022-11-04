@@ -1,4 +1,4 @@
-﻿namespace ImportFileExelRedis.Models
+﻿namespace ImportFileExcelRedis.Models
 {
     public class ExcelModel
     {

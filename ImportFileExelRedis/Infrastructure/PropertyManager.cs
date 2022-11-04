@@ -1,6 +1,6 @@
 ﻿
 
-namespace ImportFileExelRedis.Infrastructure
+namespace ImportFileExcelRedis.Infrastructure
 {
     public class PropertyManager<T>
     {

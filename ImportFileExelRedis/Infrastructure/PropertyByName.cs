@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace ImportFileExelRedis.Infrastructure
+namespace ImportFileExcelRedis.Infrastructure
 {
     public class PropertyByName<T>
     { 

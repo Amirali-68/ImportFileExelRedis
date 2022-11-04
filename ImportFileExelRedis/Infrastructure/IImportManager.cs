@@ -1,4 +1,4 @@
-﻿namespace ImportFileExelRedis.Infrastructure
+﻿namespace ImportFileExcelRedis.Infrastructure
 {
     public interface IImportManager
     {

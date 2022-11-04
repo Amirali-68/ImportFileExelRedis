@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "ImportFileExelRedis": {
+    "ImportFileExcelRedis": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

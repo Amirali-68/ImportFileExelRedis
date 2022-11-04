@@ -1,10 +1,10 @@
 ﻿using Application.Publisher;
-using ImportFileExelRedis.Models;
+using ImportFileExcelRedis.Models;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 using OfficeOpenXml;
 
-namespace ImportFileExelRedis.Infrastructure
+namespace ImportFileExcelRedis.Infrastructure
 {
     public class ImportManager : IImportManager
     {

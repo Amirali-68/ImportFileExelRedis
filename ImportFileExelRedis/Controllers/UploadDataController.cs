@@ -1,7 +1,7 @@
-﻿using ImportFileExelRedis.Infrastructure;
+﻿using ImportFileExcelRedis.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ImportFileExelRedis.Controllers
+namespace ImportFileExcelRedis.Controllers
 {
     [ApiController]
     [Route("[controller]")]

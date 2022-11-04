@@ -12,7 +12,6 @@ namespace Application.Publisher
         public virtual async Task PublishAsync(string message)
         {
             var pubsub = connection.GetSubscriber();
-
             await pubsub.PublishAsync(Channel, message);
         }
     }
