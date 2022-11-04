@@ -1,0 +1,12 @@
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\bin\Debug\net6.0\Application.Publisher.deps.json
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\bin\Debug\net6.0\Application.Publisher.dll
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\bin\Debug\net6.0\Application.Publisher.pdb
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.csproj.AssemblyReference.cache
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.AssemblyInfoInputs.cache
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.AssemblyInfo.cs
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.dll
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\refint\Application.Publisher.dll
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\Application.Publisher.pdb
+C:\Users\amira\source\repos\ImportFileExelRedis\Application.Publisher\obj\Debug\net6.0\ref\Application.Publisher.dll
